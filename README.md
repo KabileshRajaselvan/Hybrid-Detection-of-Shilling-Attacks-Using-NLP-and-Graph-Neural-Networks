@@ -1,20 +1,20 @@
 
 
 ````markdown
-# 📦 Amazon Product Scraper & Testing Notebooks
+ 📦 Amazon Product Scraper & Testing Notebooks
 
 This repository contains Jupyter notebooks for scraping product data from Amazon and performing data testing or analysis.
 
 ---
 
-## 📂 Contents
+ 📂 Contents
 
 - `amazon_scrape.ipynb` — A notebook for scraping product details from Amazon using Selenium.
 - `testing.ipynb` — A notebook for testing and analyzing scraped data.
 
 ---
 
-## 📌 Features
+ 📌 Features
 
 - Scrapes product name, price, rating, number of reviews, and availability from Amazon product listings.
 - Saves the scraped data into a CSV file for further use.
@@ -22,7 +22,7 @@ This repository contains Jupyter notebooks for scraping product data from Amazon
 
 ---
 
-## 🛠️ Requirements
+ 🛠️ Requirements
 
 - Python 3.x
 - Jupyter Notebook
@@ -37,7 +37,7 @@ This repository contains Jupyter notebooks for scraping product data from Amazon
 
 ---
 
-## 🚀 How to Run
+ 🚀 How to Run
 
 1. **Clone this repository**
    ```bash
@@ -59,7 +59,7 @@ This repository contains Jupyter notebooks for scraping product data from Amazon
 
 ---
 
-## ⚠️ Disclaimer
+ ⚠️ Disclaimer
 
 * This project is for educational purposes only.
 * Scraping Amazon data may violate their Terms of Service. Use responsibly and at your own risk.
@@ -68,7 +68,7 @@ This repository contains Jupyter notebooks for scraping product data from Amazon
 
 ---
 
-## ✅ Functions used:
+ ✅ Functions used:
 selenium
 pandas
 beautifulsoup4
